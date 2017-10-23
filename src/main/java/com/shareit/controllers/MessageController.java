@@ -1,3 +1,6 @@
+/**
+ * This class contains message control related codes
+ * */
 package com.shareit.controllers;
 
 import com.shareit.generators.CommandGenerator;
